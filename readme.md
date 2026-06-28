@@ -7,4 +7,7 @@ in this website
 3 apps build by hackclub team
 4 no vibecoding
 
+languages used
+1 html
+2 css
 if you want to go to hackclub pls go to button in my website and register
